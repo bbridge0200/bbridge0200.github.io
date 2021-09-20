@@ -1,4 +1,13 @@
 .page {
     width: 600px;
     margin: 0 auto;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
 }
+p {
+    padding: 20px 0px 20px 10px;  /* Vertical  Horizontal */
+    margin-top: 25px;
+    margin-bottom: 50px; 
+    font-size: 13px;
+
+  }
