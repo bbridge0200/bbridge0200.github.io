@@ -1,8 +1,12 @@
 
+body{
+    background-color:rgba(177, 164, 197, 0.205);
+}
 .page {
-    position: absolute;
     
-    background-color: rgba(177, 164, 197, 0.205);
+    
+    
+
     font-family: Helvetica, Arial, sans-serif;
     text-align: center;
 }
@@ -23,4 +27,7 @@ p {
 
     font-family: Helvetica, Arial, sans-serif;
     text-align: left;
+}
+button{
+
 }
