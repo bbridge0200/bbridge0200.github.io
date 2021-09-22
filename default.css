@@ -1,6 +1,8 @@
+
 .page {
-    width: 600px;
-    margin: 0 auto;
+    position: absolute;
+    
+    background-color: rgba(177, 164, 197, 0.205);
     font-family: Helvetica, Arial, sans-serif;
     text-align: center;
 }
@@ -11,3 +13,14 @@ p {
     font-size: 13px;
 
   }
+.sidebar{
+    height: 100%; 
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    margin: 0 auto;
+    background-color: rgb(167, 152, 190);
+
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: left;
+}
