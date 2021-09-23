@@ -30,13 +30,15 @@ h1{
     text-align: center;
     border: 2px black; 
 }
-p {
-    font-family: Helvetica, Arial, sans-serif;
-
-    font-size: 13px;
-    text-align: right;
-
-  }
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.spacer{
+    margin-bottom: 20px;
+}
 
 
 button{
